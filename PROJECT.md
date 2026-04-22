@@ -45,9 +45,8 @@ Tono técnico pero cercano: directo, claro y sin promesas exageradas.
 - Preparado para pasar a Vercel al cierre
 
 ## Tareas de cierre pendientes
-- Reemplazar URLs sociales genéricas por URLs finales
-- Ejecutar testing final con links reales
-- Publicar en Vercel con dominio comprado
+- Cambiar a dominio personalizado en vercel.
+- Testear UI en Mobile
 
 ---
 Última actualización: 2026-04-22
